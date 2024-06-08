@@ -1,10 +1,10 @@
-/*select * from PortfolioProject..CovidVaccinations
-ORDER BY 3,4*/
+select * from PortfolioProject..CovidVaccinations
+ORDER BY 3,4
 
 
-/*select * from PortfolioProject..CovidDeaths
+select * from PortfolioProject..CovidDeaths
 WHERE continent is NOT NULL
-ORDER BY 3,4*/
+ORDER BY 3,4
 
 
 --Select data that we are going to be using
